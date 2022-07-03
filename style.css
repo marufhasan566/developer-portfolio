@@ -45,3 +45,47 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+
+
+
+
+
+
+
+.second-half-width {
+    width: 50%;
+    padding: 20px;
+    margin-right: 40px;
+}
+
+.second-half-width img {
+    width: 95%;
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+
+.second-half-width p {
+    text-align: justify;
+    background-image: linear-gradient(bisque, pink);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.second-half-width a {
+    background-image: linear-gradient(yellow, orange);
+    text-decoration: none;
+    text-align: center;
+    font-weight: 500;
+    font-size: x-large;
+    padding: 5px 20px;
+    color: black;
+    border-radius: 5px;
+    border: 2px solid greenyellow;
+}
+
+.second-section {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
